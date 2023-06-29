@@ -1,0 +1,4 @@
+*.m filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+Emotion_Detection_NLP/App/models/emotion_classifier_pipe.pkl filter=lfs diff=lfs merge=lfs -text
+notebooks/emotion_classifier_pipe.pkl filter=lfs diff=lfs merge=lfs -text
